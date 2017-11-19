@@ -1,0 +1,28 @@
+{
+  "name": "happn-stats-elasticsearch",
+  "version": "1.0.0",
+  "description": "Elasticsearch plugin for happn-stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happner/happn-stats-elasticsearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happner/happn-stats-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/happner/happn-stats-elasticsearch#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "debug": "^2.6.9",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "happn-stats": "^1.0.3"
+  }
+}
