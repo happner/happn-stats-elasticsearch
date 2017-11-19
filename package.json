@@ -1,6 +1,6 @@
 {
   "name": "happn-stats-elasticsearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elasticsearch plugin for happn-stats",
   "main": "index.js",
   "scripts": {
